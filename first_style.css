@@ -1,4 +1,9 @@
 p {
-    color: red;
-    text-align: center;
+    color: black;
+    text-align: justify;
+}
+
+ul{
+    color: black;
+    text-align: left;
 }
